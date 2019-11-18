@@ -15,3 +15,9 @@ ol li {
 	margin-bottom:10px;
 	padding-top:5px;
 }
+
+.google-form__wrapper {
+	padding-left:10px; 
+	padding-right:10px; 
+	min-height:900px;
+}
